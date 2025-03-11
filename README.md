@@ -61,27 +61,3 @@ Desenvolvemos um sistema para gerenciamento de contatos comerciais, permitindo c
 
 Arquivo: `exercicio-cadastro-de-contato.py`
 
----
-
-## Como Executar os Códigos
-
-1. Certifique-se de ter o **Python** instalado na sua máquina.
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
-   ```
-3. Acesse a pasta do projeto:
-   ```bash
-   cd seurepositorio
-   ```
-4. Execute qualquer um dos scripts desejados:
-   ```bash
-   python nome_do_script.py
-   ```
-
----
-
-## Autor
-
-**Mariane Okimoto**
-
